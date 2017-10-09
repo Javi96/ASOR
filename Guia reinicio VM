@@ -1,0 +1,12 @@
+rm -r RedesVMS/
+rm -r VirtualBox\ VMs/
+rm -r .VirtualBox/
+asorregenerate
+vi(editor de texto) pr1.topol
+	netprefix inet
+	machine 1 0 0 (maquina vm1 se conecta a interf 0 con int 0)
+	""		2 0 0
+	""		3 0 0 1 1
+	""		4 0 1
+
+vi pr1.topol
