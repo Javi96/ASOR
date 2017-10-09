@@ -9,4 +9,4 @@ vi(editor de texto) pr1.topol
 	""		3 0 0 1 1
 	""		4 0 1
 
-vi pr1.topol
+vtopol pr1.topol
